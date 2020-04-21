@@ -6469,6 +6469,7 @@ width : 100%;
 .forum-description h3, .posts-description h3 {
 padding : 0 !important ;
 }
+}
 @media (max-width: 500px) {
 .forum-description h3 a, .posts-description h3 a {
 box-sizing : content-box;
@@ -6478,6 +6479,7 @@ text-overflow : ellipsis;
 white-space : nowrap;
 width : 100%;
 }
+}
 @media (min-width: 751px) {
 #forum-statistics > div > div {
 left : 22px;
@@ -6485,6 +6487,7 @@ position : absolute;
 right : 44px;
 top : 50%;
 transform : translate3d(0,-50%,0);
+}
 }
 .block-market .market-item-price {
 background-color : #F5F5F5;
