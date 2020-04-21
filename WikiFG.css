@@ -983,7 +983,7 @@ font-family : "Material Icons";
 .posts-icon.folder_birthday:after {
 content : "cake";
 font-family : "Material Icons";
-}/*
+}
 .forum-icon, .posts-icon {
 background-color : #B2B2B2;
 border-radius : 16px;
@@ -3625,7 +3625,7 @@ margin-left : 0;
 }
 .box-gallery a {
 display : block;
-}
+}/*
 .box-gallery .box-gallery-title {
 font-weight : 600;
 margin-bottom : 16px;
