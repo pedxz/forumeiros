@@ -6188,6 +6188,7 @@ display : none;
 .post-header h2 {
 margin-right : 49px;
 }
+}
 @media (max-width: 660px) {
 #logo-link {
 padding-right : 0;
@@ -6304,6 +6305,7 @@ margin-right : 0;
 }
 #event {
 margin-right : 0;
+}
 }
 @media (min-width: 1201px) {
 .sticky {
