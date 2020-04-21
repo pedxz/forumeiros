@@ -3625,7 +3625,7 @@ margin-left : 0;
 }
 .box-gallery a {
 display : block;
-}/*
+}
 .box-gallery .box-gallery-title {
 font-weight : 600;
 margin-bottom : 16px;
@@ -6018,6 +6018,7 @@ margin : 0 -3px;
 .mobile-visible {
 display : none;
 }
+}
 @media (max-width: 960px) {
 #main-menu-btn {
 border : none;
@@ -6281,10 +6282,12 @@ width : auto;
 .block-topics .block-topics-views {
 margin-left : 22px;
 }
+}
 @media (max-width: 950px) {
 #wrap, .wrap {
 max-width : 100%;
 padding : 0 11px;
+}
 }
 @media (max-width: 1200px) {
 #index {
@@ -6307,6 +6310,7 @@ margin-right : 0;
 position : fixed;
 top : 86px;
 width : auto;
+}
 }
 @media (max-width: 750px) {
 .category-title, .posts-title {
@@ -6423,6 +6427,7 @@ height : auto;
 .grid-3 {
 width : 100%;
 }
+}
 @media (max-width: 500px) {
 .category-title, .posts-title {
 width : 100%;
@@ -6464,6 +6469,7 @@ padding : 16px 32px;
 clear : both;
 display : block;
 width : 100%;
+}
 }
 @media (min-width: 501px) {
 .forum-description h3, .posts-description h3 {
@@ -6623,4 +6629,3 @@ margin : auto;
 width : 70%;
 }
 }
-*/
