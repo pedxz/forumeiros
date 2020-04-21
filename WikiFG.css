@@ -6496,7 +6496,6 @@ right : 44px;
 top : 50%;
 transform : translate3d(0,-50%,0);
 }
-}
 .block-market .market-item-price {
 background-color : #F5F5F5;
 border-color : #EBEBEB;
@@ -6517,6 +6516,7 @@ position : absolute;
 right : 0;
 top : 50%;
 transform : translate3d(0,-50%,0);
+}
 }
 @media (max-width: 335px) {
 .profile-vendor .profile-username {
